@@ -1,0 +1,1291 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2022. All Rights Reserved.",
+  "totalItems" : 6,
+  "totalEvents" : 0,
+  "totalGames" : 6,
+  "totalMatches" : 0,
+  "metaData" : {
+    "timeStamp" : "20221007_015028"
+  },
+  "wait" : 10,
+  "dates" : [ {
+    "date" : "2022-10-06",
+    "totalItems" : 6,
+    "totalEvents" : 0,
+    "totalGames" : 6,
+    "totalMatches" : 0,
+    "games" : [ {
+      "gamePk" : 2022010088,
+      "link" : "/api/v1/game/2022010088/feed/live",
+      "gameType" : "PR",
+      "season" : "20222023",
+      "gameDate" : "2022-10-06T23:30:00Z",
+      "status" : {
+        "abstractGameState" : "Live",
+        "codedGameState" : "3",
+        "detailedState" : "In Progress",
+        "statusCode" : "3",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "type" : "league"
+          },
+          "score" : 0,
+          "team" : {
+            "id" : 19,
+            "name" : "St. Louis Blues",
+            "link" : "/api/v1/teams/19",
+            "venue" : {
+              "id" : 5076,
+              "name" : "Enterprise Center",
+              "link" : "/api/v1/venues/5076",
+              "city" : "St. Louis",
+              "timeZone" : {
+                "id" : "America/Chicago",
+                "offset" : -5,
+                "tz" : "CDT"
+              }
+            },
+            "abbreviation" : "STL",
+            "teamName" : "Blues",
+            "locationName" : "St. Louis",
+            "firstYearOfPlay" : "1967",
+            "division" : {
+              "id" : 16,
+              "name" : "Central",
+              "nameShort" : "CEN",
+              "link" : "/api/v1/divisions/16",
+              "abbreviation" : "C"
+            },
+            "conference" : {
+              "id" : 5,
+              "name" : "Western",
+              "link" : "/api/v1/conferences/5"
+            },
+            "franchise" : {
+              "franchiseId" : 18,
+              "teamName" : "Blues",
+              "link" : "/api/v1/franchises/18"
+            },
+            "shortName" : "St Louis",
+            "officialSiteUrl" : "http://www.stlouisblues.com/",
+            "franchiseId" : 18,
+            "active" : true
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 29,
+            "name" : "Columbus Blue Jackets",
+            "link" : "/api/v1/teams/29",
+            "venue" : {
+              "id" : 5059,
+              "name" : "Nationwide Arena",
+              "link" : "/api/v1/venues/5059",
+              "city" : "Columbus",
+              "timeZone" : {
+                "id" : "America/New_York",
+                "offset" : -4,
+                "tz" : "EDT"
+              }
+            },
+            "abbreviation" : "CBJ",
+            "teamName" : "Blue Jackets",
+            "locationName" : "Columbus",
+            "firstYearOfPlay" : "2000",
+            "division" : {
+              "id" : 18,
+              "name" : "Metropolitan",
+              "nameShort" : "Metro",
+              "link" : "/api/v1/divisions/18",
+              "abbreviation" : "M"
+            },
+            "conference" : {
+              "id" : 6,
+              "name" : "Eastern",
+              "link" : "/api/v1/conferences/6"
+            },
+            "franchise" : {
+              "franchiseId" : 36,
+              "teamName" : "Blue Jackets",
+              "link" : "/api/v1/franchises/36"
+            },
+            "shortName" : "Columbus",
+            "officialSiteUrl" : "http://www.bluejackets.com/",
+            "franchiseId" : 36,
+            "active" : true
+          }
+        }
+      },
+      "linescore" : {
+        "currentPeriod" : 3,
+        "currentPeriodOrdinal" : "3rd",
+        "currentPeriodTimeRemaining" : "18:05",
+        "periods" : [ {
+          "periodType" : "REGULAR",
+          "startTime" : "2022-10-07T00:03:34Z",
+          "endTime" : "2022-10-07T00:36:12Z",
+          "num" : 1,
+          "ordinalNum" : "1st",
+          "home" : {
+            "goals" : 3,
+            "shotsOnGoal" : 17,
+            "rinkSide" : "left"
+          },
+          "away" : {
+            "goals" : 0,
+            "shotsOnGoal" : 7,
+            "rinkSide" : "right"
+          }
+        }, {
+          "periodType" : "REGULAR",
+          "startTime" : "2022-10-07T00:54:54Z",
+          "endTime" : "2022-10-07T01:29:14Z",
+          "num" : 2,
+          "ordinalNum" : "2nd",
+          "home" : {
+            "goals" : 2,
+            "shotsOnGoal" : 11,
+            "rinkSide" : "right"
+          },
+          "away" : {
+            "goals" : 0,
+            "shotsOnGoal" : 6,
+            "rinkSide" : "left"
+          }
+        }, {
+          "periodType" : "REGULAR",
+          "startTime" : "2022-10-07T01:47:59Z",
+          "num" : 3,
+          "ordinalNum" : "3rd",
+          "home" : {
+            "goals" : 0,
+            "shotsOnGoal" : 0,
+            "rinkSide" : "left"
+          },
+          "away" : {
+            "goals" : 0,
+            "shotsOnGoal" : 1,
+            "rinkSide" : "right"
+          }
+        } ],
+        "shootoutInfo" : {
+          "away" : {
+            "scores" : 0,
+            "attempts" : 0
+          },
+          "home" : {
+            "scores" : 0,
+            "attempts" : 0
+          }
+        },
+        "teams" : {
+          "home" : {
+            "team" : {
+              "id" : 29,
+              "name" : "Columbus Blue Jackets",
+              "link" : "/api/v1/teams/29"
+            },
+            "goals" : 5,
+            "shotsOnGoal" : 28,
+            "goaliePulled" : false,
+            "numSkaters" : 5,
+            "powerPlay" : false
+          },
+          "away" : {
+            "team" : {
+              "id" : 19,
+              "name" : "St. Louis Blues",
+              "link" : "/api/v1/teams/19"
+            },
+            "goals" : 0,
+            "shotsOnGoal" : 14,
+            "goaliePulled" : false,
+            "numSkaters" : 5,
+            "powerPlay" : false
+          }
+        },
+        "powerPlayStrength" : "Even",
+        "hasShootout" : false,
+        "intermissionInfo" : {
+          "intermissionTimeRemaining" : 0,
+          "intermissionTimeElapsed" : 0,
+          "inIntermission" : false
+        },
+        "powerPlayInfo" : {
+          "situationTimeRemaining" : 1085,
+          "situationTimeElapsed" : 115,
+          "inSituation" : false
+        }
+      },
+      "venue" : {
+        "id" : 5059,
+        "name" : "Nationwide Arena",
+        "link" : "/api/v1/venues/5059"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2022010088/content"
+      }
+    }, {
+      "gamePk" : 2022010090,
+      "link" : "/api/v1/game/2022010090/feed/live",
+      "gameType" : "PR",
+      "season" : "20222023",
+      "gameDate" : "2022-10-07T00:00:00Z",
+      "status" : {
+        "abstractGameState" : "Live",
+        "codedGameState" : "3",
+        "detailedState" : "In Progress",
+        "statusCode" : "3",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 16,
+            "name" : "Chicago Blackhawks",
+            "link" : "/api/v1/teams/16",
+            "venue" : {
+              "id" : 5092,
+              "name" : "United Center",
+              "link" : "/api/v1/venues/5092",
+              "city" : "Chicago",
+              "timeZone" : {
+                "id" : "America/Chicago",
+                "offset" : -5,
+                "tz" : "CDT"
+              }
+            },
+            "abbreviation" : "CHI",
+            "teamName" : "Blackhawks",
+            "locationName" : "Chicago",
+            "firstYearOfPlay" : "1926",
+            "division" : {
+              "id" : 16,
+              "name" : "Central",
+              "nameShort" : "CEN",
+              "link" : "/api/v1/divisions/16",
+              "abbreviation" : "C"
+            },
+            "conference" : {
+              "id" : 5,
+              "name" : "Western",
+              "link" : "/api/v1/conferences/5"
+            },
+            "franchise" : {
+              "franchiseId" : 11,
+              "teamName" : "Blackhawks",
+              "link" : "/api/v1/franchises/11"
+            },
+            "shortName" : "Chicago",
+            "officialSiteUrl" : "http://www.chicagoblackhawks.com/",
+            "franchiseId" : 11,
+            "active" : true
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 30,
+            "name" : "Minnesota Wild",
+            "link" : "/api/v1/teams/30",
+            "venue" : {
+              "id" : 5098,
+              "name" : "Xcel Energy Center",
+              "link" : "/api/v1/venues/5098",
+              "city" : "St. Paul",
+              "timeZone" : {
+                "id" : "America/Chicago",
+                "offset" : -5,
+                "tz" : "CDT"
+              }
+            },
+            "abbreviation" : "MIN",
+            "teamName" : "Wild",
+            "locationName" : "Minnesota",
+            "firstYearOfPlay" : "2000",
+            "division" : {
+              "id" : 16,
+              "name" : "Central",
+              "nameShort" : "CEN",
+              "link" : "/api/v1/divisions/16",
+              "abbreviation" : "C"
+            },
+            "conference" : {
+              "id" : 5,
+              "name" : "Western",
+              "link" : "/api/v1/conferences/5"
+            },
+            "franchise" : {
+              "franchiseId" : 37,
+              "teamName" : "Wild",
+              "link" : "/api/v1/franchises/37"
+            },
+            "shortName" : "Minnesota",
+            "officialSiteUrl" : "http://www.wild.com/",
+            "franchiseId" : 37,
+            "active" : true
+          }
+        }
+      },
+      "linescore" : {
+        "currentPeriod" : 2,
+        "currentPeriodOrdinal" : "2nd",
+        "currentPeriodTimeRemaining" : "END",
+        "periods" : [ {
+          "periodType" : "REGULAR",
+          "startTime" : "2022-10-07T00:08:38Z",
+          "endTime" : "2022-10-07T00:41:15Z",
+          "num" : 1,
+          "ordinalNum" : "1st",
+          "home" : {
+            "goals" : 2,
+            "shotsOnGoal" : 15,
+            "rinkSide" : "right"
+          },
+          "away" : {
+            "goals" : 0,
+            "shotsOnGoal" : 4,
+            "rinkSide" : "left"
+          }
+        }, {
+          "periodType" : "REGULAR",
+          "startTime" : "2022-10-07T01:00:15Z",
+          "endTime" : "2022-10-07T01:35:33Z",
+          "num" : 2,
+          "ordinalNum" : "2nd",
+          "home" : {
+            "goals" : 1,
+            "shotsOnGoal" : 5,
+            "rinkSide" : "left"
+          },
+          "away" : {
+            "goals" : 1,
+            "shotsOnGoal" : 7,
+            "rinkSide" : "right"
+          }
+        } ],
+        "shootoutInfo" : {
+          "away" : {
+            "scores" : 0,
+            "attempts" : 0
+          },
+          "home" : {
+            "scores" : 0,
+            "attempts" : 0
+          }
+        },
+        "teams" : {
+          "home" : {
+            "team" : {
+              "id" : 30,
+              "name" : "Minnesota Wild",
+              "link" : "/api/v1/teams/30"
+            },
+            "goals" : 3,
+            "shotsOnGoal" : 20,
+            "goaliePulled" : false,
+            "numSkaters" : 5,
+            "powerPlay" : false
+          },
+          "away" : {
+            "team" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "goals" : 1,
+            "shotsOnGoal" : 11,
+            "goaliePulled" : false,
+            "numSkaters" : 5,
+            "powerPlay" : false
+          }
+        },
+        "powerPlayStrength" : "Even",
+        "hasShootout" : false,
+        "intermissionInfo" : {
+          "intermissionTimeRemaining" : 188,
+          "intermissionTimeElapsed" : 892,
+          "inIntermission" : true
+        },
+        "powerPlayInfo" : {
+          "situationTimeRemaining" : 0,
+          "situationTimeElapsed" : 39,
+          "inSituation" : false
+        }
+      },
+      "venue" : {
+        "id" : 5098,
+        "name" : "Xcel Energy Center",
+        "link" : "/api/v1/venues/5098"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2022010090/content"
+      }
+    }, {
+      "gamePk" : 2022010091,
+      "link" : "/api/v1/game/2022010091/feed/live",
+      "gameType" : "PR",
+      "season" : "20222023",
+      "gameDate" : "2022-10-07T01:00:00Z",
+      "status" : {
+        "abstractGameState" : "Live",
+        "codedGameState" : "3",
+        "detailedState" : "In Progress",
+        "statusCode" : "3",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "type" : "league"
+          },
+          "score" : 1,
+          "team" : {
+            "id" : 54,
+            "name" : "Vegas Golden Knights",
+            "link" : "/api/v1/teams/54",
+            "venue" : {
+              "id" : 5178,
+              "name" : "T-Mobile Arena",
+              "link" : "/api/v1/venues/5178",
+              "city" : "Las Vegas",
+              "timeZone" : {
+                "id" : "America/Los_Angeles",
+                "offset" : -7,
+                "tz" : "PDT"
+              }
+            },
+            "abbreviation" : "VGK",
+            "teamName" : "Golden Knights",
+            "locationName" : "Vegas",
+            "firstYearOfPlay" : "2017",
+            "division" : {
+              "id" : 15,
+              "name" : "Pacific",
+              "nameShort" : "PAC",
+              "link" : "/api/v1/divisions/15",
+              "abbreviation" : "P"
+            },
+            "conference" : {
+              "id" : 5,
+              "name" : "Western",
+              "link" : "/api/v1/conferences/5"
+            },
+            "franchise" : {
+              "franchiseId" : 38,
+              "teamName" : "Golden Knights",
+              "link" : "/api/v1/franchises/38"
+            },
+            "shortName" : "Vegas",
+            "officialSiteUrl" : "http://www.vegasgoldenknights.com/",
+            "franchiseId" : 38,
+            "active" : true
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 26,
+            "name" : "Los Angeles Kings",
+            "link" : "/api/v1/teams/26",
+            "venue" : {
+              "name" : "Crypto.com Arena",
+              "link" : "/api/v1/venues/null",
+              "city" : "Los Angeles",
+              "timeZone" : {
+                "id" : "America/Los_Angeles",
+                "offset" : -7,
+                "tz" : "PDT"
+              }
+            },
+            "abbreviation" : "LAK",
+            "teamName" : "Kings",
+            "locationName" : "Los Angeles",
+            "firstYearOfPlay" : "1967",
+            "division" : {
+              "id" : 15,
+              "name" : "Pacific",
+              "nameShort" : "PAC",
+              "link" : "/api/v1/divisions/15",
+              "abbreviation" : "P"
+            },
+            "conference" : {
+              "id" : 5,
+              "name" : "Western",
+              "link" : "/api/v1/conferences/5"
+            },
+            "franchise" : {
+              "franchiseId" : 14,
+              "teamName" : "Kings",
+              "link" : "/api/v1/franchises/14"
+            },
+            "shortName" : "Los Angeles",
+            "officialSiteUrl" : "http://www.lakings.com/",
+            "franchiseId" : 14,
+            "active" : true
+          }
+        }
+      },
+      "linescore" : {
+        "currentPeriod" : 1,
+        "currentPeriodOrdinal" : "1st",
+        "currentPeriodTimeRemaining" : "END",
+        "periods" : [ {
+          "periodType" : "REGULAR",
+          "num" : 1,
+          "ordinalNum" : "1st",
+          "home" : {
+            "goals" : 2,
+            "shotsOnGoal" : 9,
+            "rinkSide" : "right"
+          },
+          "away" : {
+            "goals" : 1,
+            "shotsOnGoal" : 8,
+            "rinkSide" : "left"
+          }
+        } ],
+        "shootoutInfo" : {
+          "away" : {
+            "scores" : 0,
+            "attempts" : 0
+          },
+          "home" : {
+            "scores" : 0,
+            "attempts" : 0
+          }
+        },
+        "teams" : {
+          "home" : {
+            "team" : {
+              "id" : 26,
+              "name" : "Los Angeles Kings",
+              "link" : "/api/v1/teams/26"
+            },
+            "goals" : 2,
+            "shotsOnGoal" : 9,
+            "goaliePulled" : false,
+            "numSkaters" : 0,
+            "powerPlay" : false
+          },
+          "away" : {
+            "team" : {
+              "id" : 54,
+              "name" : "Vegas Golden Knights",
+              "link" : "/api/v1/teams/54"
+            },
+            "goals" : 1,
+            "shotsOnGoal" : 8,
+            "goaliePulled" : false,
+            "numSkaters" : 0,
+            "powerPlay" : false
+          }
+        },
+        "powerPlayStrength" : "Even",
+        "hasShootout" : false,
+        "intermissionInfo" : {
+          "intermissionTimeRemaining" : 0,
+          "intermissionTimeElapsed" : 0,
+          "inIntermission" : false
+        }
+      },
+      "venue" : {
+        "name" : "Vivint Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2022010091/content"
+      }
+    }, {
+      "gamePk" : 2022010086,
+      "link" : "/api/v1/game/2022010086/feed/live",
+      "gameType" : "PR",
+      "season" : "20222023",
+      "gameDate" : "2022-10-06T22:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "6",
+        "detailedState" : "Final",
+        "statusCode" : "6",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 4,
+            "losses" : 3,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 4,
+          "team" : {
+            "id" : 9,
+            "name" : "Ottawa Senators",
+            "link" : "/api/v1/teams/9",
+            "venue" : {
+              "id" : 5031,
+              "name" : "Canadian Tire Centre",
+              "link" : "/api/v1/venues/5031",
+              "city" : "Ottawa",
+              "timeZone" : {
+                "id" : "America/New_York",
+                "offset" : -4,
+                "tz" : "EDT"
+              }
+            },
+            "abbreviation" : "OTT",
+            "teamName" : "Senators",
+            "locationName" : "Ottawa",
+            "firstYearOfPlay" : "1992",
+            "division" : {
+              "id" : 17,
+              "name" : "Atlantic",
+              "nameShort" : "ATL",
+              "link" : "/api/v1/divisions/17",
+              "abbreviation" : "A"
+            },
+            "conference" : {
+              "id" : 6,
+              "name" : "Eastern",
+              "link" : "/api/v1/conferences/6"
+            },
+            "franchise" : {
+              "franchiseId" : 30,
+              "teamName" : "Senators",
+              "link" : "/api/v1/franchises/30"
+            },
+            "shortName" : "Ottawa",
+            "officialSiteUrl" : "http://www.ottawasenators.com/",
+            "franchiseId" : 30,
+            "active" : true
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 6,
+            "ot" : 1,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 8,
+            "name" : "Montréal Canadiens",
+            "link" : "/api/v1/teams/8",
+            "venue" : {
+              "id" : 5028,
+              "name" : "Bell Centre",
+              "link" : "/api/v1/venues/5028",
+              "city" : "Montréal",
+              "timeZone" : {
+                "id" : "America/Montreal",
+                "offset" : -4,
+                "tz" : "EDT"
+              }
+            },
+            "abbreviation" : "MTL",
+            "teamName" : "Canadiens",
+            "locationName" : "Montréal",
+            "firstYearOfPlay" : "1917",
+            "division" : {
+              "id" : 17,
+              "name" : "Atlantic",
+              "nameShort" : "ATL",
+              "link" : "/api/v1/divisions/17",
+              "abbreviation" : "A"
+            },
+            "conference" : {
+              "id" : 6,
+              "name" : "Eastern",
+              "link" : "/api/v1/conferences/6"
+            },
+            "franchise" : {
+              "franchiseId" : 1,
+              "teamName" : "Canadiens",
+              "link" : "/api/v1/franchises/1"
+            },
+            "shortName" : "Montréal",
+            "officialSiteUrl" : "http://www.canadiens.com/",
+            "franchiseId" : 1,
+            "active" : true
+          }
+        }
+      },
+      "linescore" : {
+        "currentPeriod" : 3,
+        "currentPeriodOrdinal" : "3rd",
+        "currentPeriodTimeRemaining" : "Final",
+        "periods" : [ {
+          "periodType" : "REGULAR",
+          "num" : 1,
+          "ordinalNum" : "1st",
+          "home" : {
+            "goals" : 1,
+            "shotsOnGoal" : 10,
+            "rinkSide" : "right"
+          },
+          "away" : {
+            "goals" : 2,
+            "shotsOnGoal" : 16,
+            "rinkSide" : "left"
+          }
+        }, {
+          "periodType" : "REGULAR",
+          "num" : 2,
+          "ordinalNum" : "2nd",
+          "home" : {
+            "goals" : 1,
+            "shotsOnGoal" : 12,
+            "rinkSide" : "left"
+          },
+          "away" : {
+            "goals" : 1,
+            "shotsOnGoal" : 9,
+            "rinkSide" : "right"
+          }
+        }, {
+          "periodType" : "REGULAR",
+          "num" : 3,
+          "ordinalNum" : "3rd",
+          "home" : {
+            "goals" : 1,
+            "shotsOnGoal" : 7,
+            "rinkSide" : "right"
+          },
+          "away" : {
+            "goals" : 1,
+            "shotsOnGoal" : 8,
+            "rinkSide" : "left"
+          }
+        } ],
+        "shootoutInfo" : {
+          "away" : {
+            "scores" : 0,
+            "attempts" : 0
+          },
+          "home" : {
+            "scores" : 0,
+            "attempts" : 0
+          }
+        },
+        "teams" : {
+          "home" : {
+            "team" : {
+              "id" : 8,
+              "name" : "Montréal Canadiens",
+              "link" : "/api/v1/teams/8"
+            },
+            "goals" : 3,
+            "shotsOnGoal" : 29,
+            "goaliePulled" : false,
+            "numSkaters" : 0,
+            "powerPlay" : false
+          },
+          "away" : {
+            "team" : {
+              "id" : 9,
+              "name" : "Ottawa Senators",
+              "link" : "/api/v1/teams/9"
+            },
+            "goals" : 4,
+            "shotsOnGoal" : 33,
+            "goaliePulled" : false,
+            "numSkaters" : 0,
+            "powerPlay" : false
+          }
+        },
+        "powerPlayStrength" : "Even",
+        "hasShootout" : false,
+        "intermissionInfo" : {
+          "intermissionTimeRemaining" : 0,
+          "intermissionTimeElapsed" : 0,
+          "inIntermission" : false
+        }
+      },
+      "venue" : {
+        "name" : "Steele Community Centre",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2022010086/content"
+      }
+    }, {
+      "gamePk" : 2022010087,
+      "link" : "/api/v1/game/2022010087/feed/live",
+      "gameType" : "PR",
+      "season" : "20222023",
+      "gameDate" : "2022-10-06T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "6",
+        "detailedState" : "Final",
+        "statusCode" : "6",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 4,
+            "losses" : 2,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 1,
+            "name" : "New Jersey Devils",
+            "link" : "/api/v1/teams/1",
+            "venue" : {
+              "name" : "Prudential Center",
+              "link" : "/api/v1/venues/null",
+              "city" : "Newark",
+              "timeZone" : {
+                "id" : "America/New_York",
+                "offset" : -4,
+                "tz" : "EDT"
+              }
+            },
+            "abbreviation" : "NJD",
+            "teamName" : "Devils",
+            "locationName" : "New Jersey",
+            "firstYearOfPlay" : "1982",
+            "division" : {
+              "id" : 18,
+              "name" : "Metropolitan",
+              "nameShort" : "Metro",
+              "link" : "/api/v1/divisions/18",
+              "abbreviation" : "M"
+            },
+            "conference" : {
+              "id" : 6,
+              "name" : "Eastern",
+              "link" : "/api/v1/conferences/6"
+            },
+            "franchise" : {
+              "franchiseId" : 23,
+              "teamName" : "Devils",
+              "link" : "/api/v1/franchises/23"
+            },
+            "shortName" : "New Jersey",
+            "officialSiteUrl" : "http://www.newjerseydevils.com/",
+            "franchiseId" : 23,
+            "active" : true
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 3,
+            "losses" : 2,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 5,
+          "team" : {
+            "id" : 2,
+            "name" : "New York Islanders",
+            "link" : "/api/v1/teams/2",
+            "venue" : {
+              "name" : "UBS Arena",
+              "link" : "/api/v1/venues/null",
+              "city" : "Elmont",
+              "timeZone" : {
+                "id" : "America/New_York",
+                "offset" : -4,
+                "tz" : "EDT"
+              }
+            },
+            "abbreviation" : "NYI",
+            "teamName" : "Islanders",
+            "locationName" : "New York",
+            "firstYearOfPlay" : "1972",
+            "division" : {
+              "id" : 18,
+              "name" : "Metropolitan",
+              "nameShort" : "Metro",
+              "link" : "/api/v1/divisions/18",
+              "abbreviation" : "M"
+            },
+            "conference" : {
+              "id" : 6,
+              "name" : "Eastern",
+              "link" : "/api/v1/conferences/6"
+            },
+            "franchise" : {
+              "franchiseId" : 22,
+              "teamName" : "Islanders",
+              "link" : "/api/v1/franchises/22"
+            },
+            "shortName" : "NY Islanders",
+            "officialSiteUrl" : "http://www.newyorkislanders.com/",
+            "franchiseId" : 22,
+            "active" : true
+          }
+        }
+      },
+      "linescore" : {
+        "currentPeriod" : 3,
+        "currentPeriodOrdinal" : "3rd",
+        "currentPeriodTimeRemaining" : "Final",
+        "periods" : [ {
+          "periodType" : "REGULAR",
+          "startTime" : "2022-10-06T23:08:03Z",
+          "endTime" : "2022-10-06T23:46:08Z",
+          "num" : 1,
+          "ordinalNum" : "1st",
+          "home" : {
+            "goals" : 2,
+            "shotsOnGoal" : 11,
+            "rinkSide" : "left"
+          },
+          "away" : {
+            "goals" : 1,
+            "shotsOnGoal" : 10,
+            "rinkSide" : "right"
+          }
+        }, {
+          "periodType" : "REGULAR",
+          "startTime" : "2022-10-07T00:04:50Z",
+          "endTime" : "2022-10-07T00:40:54Z",
+          "num" : 2,
+          "ordinalNum" : "2nd",
+          "home" : {
+            "goals" : 1,
+            "shotsOnGoal" : 6,
+            "rinkSide" : "right"
+          },
+          "away" : {
+            "goals" : 1,
+            "shotsOnGoal" : 10,
+            "rinkSide" : "left"
+          }
+        }, {
+          "periodType" : "REGULAR",
+          "startTime" : "2022-10-07T00:59:32Z",
+          "endTime" : "2022-10-07T01:33:21Z",
+          "num" : 3,
+          "ordinalNum" : "3rd",
+          "home" : {
+            "goals" : 2,
+            "shotsOnGoal" : 9,
+            "rinkSide" : "left"
+          },
+          "away" : {
+            "goals" : 0,
+            "shotsOnGoal" : 8,
+            "rinkSide" : "right"
+          }
+        } ],
+        "shootoutInfo" : {
+          "away" : {
+            "scores" : 0,
+            "attempts" : 0
+          },
+          "home" : {
+            "scores" : 0,
+            "attempts" : 0
+          }
+        },
+        "teams" : {
+          "home" : {
+            "team" : {
+              "id" : 2,
+              "name" : "New York Islanders",
+              "link" : "/api/v1/teams/2"
+            },
+            "goals" : 5,
+            "shotsOnGoal" : 26,
+            "goaliePulled" : false,
+            "numSkaters" : 5,
+            "powerPlay" : false
+          },
+          "away" : {
+            "team" : {
+              "id" : 1,
+              "name" : "New Jersey Devils",
+              "link" : "/api/v1/teams/1"
+            },
+            "goals" : 2,
+            "shotsOnGoal" : 28,
+            "goaliePulled" : false,
+            "numSkaters" : 5,
+            "powerPlay" : false
+          }
+        },
+        "powerPlayStrength" : "Even",
+        "hasShootout" : false,
+        "intermissionInfo" : {
+          "intermissionTimeRemaining" : 0,
+          "intermissionTimeElapsed" : 0,
+          "inIntermission" : false
+        },
+        "powerPlayInfo" : {
+          "situationTimeRemaining" : 0,
+          "situationTimeElapsed" : 939,
+          "inSituation" : false
+        }
+      },
+      "venue" : {
+        "name" : "UBS Arena",
+        "link" : "/api/v1/venues/null"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2022010087/content"
+      }
+    }, {
+      "gamePk" : 2022010089,
+      "link" : "/api/v1/game/2022010089/feed/live",
+      "gameType" : "PR",
+      "season" : "20222023",
+      "gameDate" : "2022-10-06T23:00:00Z",
+      "status" : {
+        "abstractGameState" : "Final",
+        "codedGameState" : "6",
+        "detailedState" : "Final",
+        "statusCode" : "6",
+        "startTimeTBD" : false
+      },
+      "teams" : {
+        "away" : {
+          "leagueRecord" : {
+            "wins" : 0,
+            "losses" : 4,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 2,
+          "team" : {
+            "id" : 14,
+            "name" : "Tampa Bay Lightning",
+            "link" : "/api/v1/teams/14",
+            "venue" : {
+              "name" : "AMALIE Arena",
+              "link" : "/api/v1/venues/null",
+              "city" : "Tampa",
+              "timeZone" : {
+                "id" : "America/New_York",
+                "offset" : -4,
+                "tz" : "EDT"
+              }
+            },
+            "abbreviation" : "TBL",
+            "teamName" : "Lightning",
+            "locationName" : "Tampa Bay",
+            "firstYearOfPlay" : "1992",
+            "division" : {
+              "id" : 17,
+              "name" : "Atlantic",
+              "nameShort" : "ATL",
+              "link" : "/api/v1/divisions/17",
+              "abbreviation" : "A"
+            },
+            "conference" : {
+              "id" : 6,
+              "name" : "Eastern",
+              "link" : "/api/v1/conferences/6"
+            },
+            "franchise" : {
+              "franchiseId" : 31,
+              "teamName" : "Lightning",
+              "link" : "/api/v1/franchises/31"
+            },
+            "shortName" : "Tampa Bay",
+            "officialSiteUrl" : "http://www.tampabaylightning.com/",
+            "franchiseId" : 31,
+            "active" : true
+          }
+        },
+        "home" : {
+          "leagueRecord" : {
+            "wins" : 2,
+            "losses" : 3,
+            "ot" : 0,
+            "type" : "league"
+          },
+          "score" : 3,
+          "team" : {
+            "id" : 13,
+            "name" : "Florida Panthers",
+            "link" : "/api/v1/teams/13",
+            "venue" : {
+              "id" : 5027,
+              "name" : "FLA Live Arena",
+              "link" : "/api/v1/venues/5027",
+              "city" : "Sunrise",
+              "timeZone" : {
+                "id" : "America/New_York",
+                "offset" : -4,
+                "tz" : "EDT"
+              }
+            },
+            "abbreviation" : "FLA",
+            "teamName" : "Panthers",
+            "locationName" : "Florida",
+            "firstYearOfPlay" : "1993",
+            "division" : {
+              "id" : 17,
+              "name" : "Atlantic",
+              "nameShort" : "ATL",
+              "link" : "/api/v1/divisions/17",
+              "abbreviation" : "A"
+            },
+            "conference" : {
+              "id" : 6,
+              "name" : "Eastern",
+              "link" : "/api/v1/conferences/6"
+            },
+            "franchise" : {
+              "franchiseId" : 33,
+              "teamName" : "Panthers",
+              "link" : "/api/v1/franchises/33"
+            },
+            "shortName" : "Florida",
+            "officialSiteUrl" : "http://www.floridapanthers.com/",
+            "franchiseId" : 33,
+            "active" : true
+          }
+        }
+      },
+      "linescore" : {
+        "currentPeriod" : 3,
+        "currentPeriodOrdinal" : "3rd",
+        "currentPeriodTimeRemaining" : "Final",
+        "periods" : [ {
+          "periodType" : "REGULAR",
+          "startTime" : "2022-10-06T23:11:46Z",
+          "endTime" : "2022-10-06T23:42:22Z",
+          "num" : 1,
+          "ordinalNum" : "1st",
+          "home" : {
+            "goals" : 2,
+            "shotsOnGoal" : 12,
+            "rinkSide" : "right"
+          },
+          "away" : {
+            "goals" : 0,
+            "shotsOnGoal" : 11,
+            "rinkSide" : "left"
+          }
+        }, {
+          "periodType" : "REGULAR",
+          "startTime" : "2022-10-07T00:01:04Z",
+          "endTime" : "2022-10-07T00:38:17Z",
+          "num" : 2,
+          "ordinalNum" : "2nd",
+          "home" : {
+            "goals" : 0,
+            "shotsOnGoal" : 13,
+            "rinkSide" : "left"
+          },
+          "away" : {
+            "goals" : 1,
+            "shotsOnGoal" : 11,
+            "rinkSide" : "right"
+          }
+        }, {
+          "periodType" : "REGULAR",
+          "startTime" : "2022-10-07T00:57:03Z",
+          "endTime" : "2022-10-07T01:34:39Z",
+          "num" : 3,
+          "ordinalNum" : "3rd",
+          "home" : {
+            "goals" : 1,
+            "shotsOnGoal" : 16,
+            "rinkSide" : "right"
+          },
+          "away" : {
+            "goals" : 1,
+            "shotsOnGoal" : 6,
+            "rinkSide" : "left"
+          }
+        } ],
+        "shootoutInfo" : {
+          "away" : {
+            "scores" : 0,
+            "attempts" : 0
+          },
+          "home" : {
+            "scores" : 0,
+            "attempts" : 0
+          }
+        },
+        "teams" : {
+          "home" : {
+            "team" : {
+              "id" : 13,
+              "name" : "Florida Panthers",
+              "link" : "/api/v1/teams/13"
+            },
+            "goals" : 3,
+            "shotsOnGoal" : 41,
+            "goaliePulled" : false,
+            "numSkaters" : 4,
+            "powerPlay" : false
+          },
+          "away" : {
+            "team" : {
+              "id" : 14,
+              "name" : "Tampa Bay Lightning",
+              "link" : "/api/v1/teams/14"
+            },
+            "goals" : 2,
+            "shotsOnGoal" : 28,
+            "goaliePulled" : false,
+            "numSkaters" : 4,
+            "powerPlay" : false
+          }
+        },
+        "powerPlayStrength" : "Even",
+        "hasShootout" : false,
+        "intermissionInfo" : {
+          "intermissionTimeRemaining" : 0,
+          "intermissionTimeElapsed" : 0,
+          "inIntermission" : false
+        },
+        "powerPlayInfo" : {
+          "situationTimeRemaining" : 108,
+          "situationTimeElapsed" : 11,
+          "inSituation" : true
+        }
+      },
+      "venue" : {
+        "id" : 5027,
+        "name" : "FLA Live Arena",
+        "link" : "/api/v1/venues/5027"
+      },
+      "content" : {
+        "link" : "/api/v1/game/2022010089/content"
+      }
+    } ],
+    "events" : [ ],
+    "matches" : [ ]
+  } ]
+}

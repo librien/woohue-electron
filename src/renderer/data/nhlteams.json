@@ -1,0 +1,259 @@
+[
+  {
+    "city": "Anaheim",
+    "name": "Anaheim Ducks",
+    "short": "ducks",
+    "primaryColor": "#F47A38",
+    "secondaryColor": "#B09862",
+    "id": 24,
+    "chant": "Let's Go Ducks!"
+  },
+  {
+    "name": "Arizona Coyotes",
+    "short": "coyotes",
+    "primaryColor": "#8C2633",
+    "secondaryColor": "#E2D6B5",
+    "id": 53,
+    "chant": "Let's Go Coyotes!"
+  },
+  {
+    "name": "Boston Bruins",
+    "short": "bruins",
+    "primaryColor": "#FFB81C",
+    "secondaryColor": "#000000",
+    "id": 6,
+    "chant": "Let's Go Bruins!"
+  },
+  {
+    "name": "Buffalo Sabres",
+    "short": "sabres",
+    "primaryColor": "#002654",
+    "secondaryColor": "#FCB514",
+    "id": 7,
+    "chant": "Let's Go Sabres!"
+  },
+  {
+    "name": "Calgary Flames",
+    "short": "flames",
+    "primaryColor": "#C8102E",
+    "secondaryColor": "#F1BE48",
+    "id": 20,
+    "chant": "Go Flames Go!"
+  },
+  {
+    "name": "Carolina Hurricanes",
+    "short": "hurricanes",
+    "primaryColor": "#CC0000",
+    "secondaryColor": "#000000",
+    "id": 12,
+    "chant": "Let's Go Canes!"
+  },
+  {
+    "name": "Chicago Blackhawks",
+    "short": "blackhawks",
+    "primaryColor": "#CF0A2C",
+    "secondaryColor": "#00833E",
+    "id": 16,
+    "chant": "Let's Go Hawks!"
+  },
+  {
+    "name": "Colorado Avalanche",
+    "short": "avalanche",
+    "primaryColor": "#6F263D",
+    "secondaryColor": "#236192",
+    "id": 21,
+    "chant": "Let's Go Avs!"
+  },
+  {
+    "name": "Columbus Blue Jackets",
+    "short": "bluejackets",
+    "primaryColor": "#002654",
+    "secondaryColor": "#CE1126",
+    "id": 29,
+    "chant": "C-B-J! C-B-J!"
+  },
+  {
+    "name": "Dallas Stars",
+    "short": "stars",
+    "primaryColor": "#006847",
+    "secondaryColor": "#8F8F8C",
+    "id": 25,
+    "chant": "Let's Go Stars!"
+  },
+  {
+    "name": "Detroit Red Wings",
+    "short": "redwings",
+    "primaryColor": "#CE1126",
+    "secondaryColor": "#FFFFFF",
+    "id": 17,
+    "chant": "Let's Go Red Wings!"
+  },
+  {
+    "name": "Edmonton Oilers",
+    "short": "oilers",
+    "primaryColor": "#041E42",
+    "secondaryColor": "#FF4C00",
+    "id": 22,
+    "chant": "Let's Go Oilers!"
+  },
+  {
+    "name": "Florida Panthers",
+    "short": "panthers",
+    "primaryColor": "#041E42",
+    "secondaryColor": "#C8102E",
+    "id": 13,
+    "chant": "Go Cats Go!"
+  },
+  {
+    "name": "Los Angeles Kings",
+    "short": "kings",
+    "primaryColor": "#111111",
+    "secondaryColor": "#A2AAAD",
+    "id": 26,
+    "chant": "Let's Go Kings!"
+  },
+  {
+    "name": "Minnesota Wild",
+    "short": "wild",
+    "primaryColor": "#A6192E",
+    "secondaryColor": "#154734",
+    "id": 30,
+    "chant": "Let's Go Wild!"
+  },
+  {
+    "name": "Montreal Canadiens",
+    "short": "canadiens",
+    "primaryColor": "#AF1E2D",
+    "secondaryColor": "#192168",
+    "id": 8,
+    "chant": "Les Canadiens Sont La!"
+  },
+  {
+    "name": "Nashville Predators",
+    "short": "predators",
+    "primaryColor": "#FFB81C",
+    "secondaryColor": "#041E42",
+    "id": 18,
+    "chant": "Let's Go Predators!"
+  },
+  {
+    "name": "New Jersey Devils",
+    "short": "devils",
+    "primaryColor": "#CE1126",
+    "secondaryColor": "#000000",
+    "id": 1,
+    "chant": "Let's Go Devils!"
+  },
+  {
+    "name": "New York Islanders",
+    "short": "islanders",
+    "primaryColor": "#00539B",
+    "secondaryColor": "#F47D30",
+    "id": 2,
+    "chant": "Let's Go Islanders!"
+  },
+  {
+    "name": "New York Rangers",
+    "short": "rangers",
+    "primaryColor": "#0038A8",
+    "secondaryColor": "#CE1126",
+    "id": 3,
+    "chant": "Let's Go Rangers!"
+  },
+  {
+    "name": "Ottawa Senators",
+    "short": "senators",
+    "primaryColor": "#E31837",
+    "secondaryColor": "#C69214",
+    "id": 9,
+    "chant": "Go Sens Go!"
+  },
+  {
+    "name": "Philadelphia Flyers",
+    "short": "flyers",
+    "primaryColor": "#F74902",
+    "secondaryColor": "#000000",
+    "id": 3,
+    "chant": "Let's Go Flyers!"
+  },
+  {
+    "name": "Pittsburgh Penguins",
+    "short": "penguins",
+    "primaryColor": "#000000",
+    "secondaryColor": "#CFC493",
+    "id": 5,
+    "chant": "Let's Go Pens!"
+  },
+  {
+    "name": "St. Louis Blues",
+    "short": "blues",
+    "primaryColor": "#002F87",
+    "secondaryColor": "#FCB514",
+    "id": 19,
+    "chant": "Let's Go Blues!"
+  },
+  {
+    "name": "San Jose Sharks",
+    "short": "sharks",
+    "primaryColor": "#006D75",
+    "secondaryColor": "#EA7200",
+    "id": 28,
+    "chant": "Let's Go Sharks!"
+  },
+  {
+    "name": "Seattle Kraken",
+    "short": "sharks",
+    "primaryColor": "#051C2C",
+    "secondaryColor": "##9CDBD9",
+    "id": 28,
+    "chant": "Let's Go Sharks!"
+  },
+  {
+    "name": "Tampa Bay Lightning",
+    "short": "lightning",
+    "primaryColor": "#002868",
+    "secondaryColor": "#FFFFFF",
+    "id": 14,
+    "chant": "Let's Go Lightning!"
+  },
+  {
+    "name": "Toronto Maple Leafs",
+    "short": "mapleleafs",
+    "primaryColor": "#003E7E",
+    "secondaryColor": "#FFFFFF",
+    "id": 10,
+    "chant": "Go Leafs Go!"
+  },
+  {
+    "name": "Vancouver Canucks",
+    "short": "canucks",
+    "primaryColor": "#001F5B",
+    "secondaryColor": "#00843D",
+    "id": 23,
+    "chant": "Go Canucks Go!"
+  },
+  {
+    "name": "Vegas Golden Knights",
+    "short": "goldenknights",
+    "primaryColor": "#B4975A",
+    "secondaryColor": "#333F42",
+    "id": 54,
+    "chant": "Let's Go Knights!"
+  },
+  {
+    "name": "Washington Capitals",
+    "short": "capitals",
+    "primaryColor": "#C8102E",
+    "secondaryColor": "#041E42",
+    "id": 15,
+    "chant": "C-A-P-S CAPS! CAPS! CAPS!"
+  },
+  {
+    "name": "Winnipeg Jets",
+    "short": "jets",
+    "primaryColor": "#041E42",
+    "secondaryColor": "#AC162C",
+    "id": 52,
+    "chant": "Go Jets Go!"
+  }
+]
